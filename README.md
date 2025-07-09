@@ -11,7 +11,7 @@ Este es un servidor MCP (Model Context Protocol) que permite a los LLMs acceder 
 - 🎨 **Personalización**: Permite personalizar colores, estilos y comportamiento
 - 📋 **Plantillas**: Proporciona plantillas predefinidas para casos comunes
 - 🔧 **Configuración**: Información completa sobre opciones de configuración
-- 🔗 Integración con APIs de Conekta: Permite crear clientes, órdenes, cargos y más mediante una integración sencilla con la API.
+- 🔗 **Integración con APIs de Conekta**: Permite crear clientes, órdenes, cargos y más mediante una integración sencilla con la API.
 
 ## Instalación
 
